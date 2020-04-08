@@ -1,3 +1,7 @@
 Hiiiii
 
+<<<<<<< HEAD
 test from local
+=======
+test1 from local
+>>>>>>> 950b19b1e23b36baadcc37770da2f4018f99fbe2
